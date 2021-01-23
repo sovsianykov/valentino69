@@ -5,7 +5,8 @@ import Home from './Components/Home';
 import BootstrapNavbar from "./Components/Navbar";
 function App() {
   return (
-    <div className="App">
+    <div className="App ">
+
         <BootstrapNavbar/>
     </div>
   );
