@@ -3,9 +3,9 @@ import {
     BrowserRouter as Router,
     Switch,
     Route,
-    useParams,
+    // useParams,
 } from "react-router-dom";
-import { Navbar,Nav,NavDropdown,Form,FormControl,Button } from 'react-bootstrap'
+import { Navbar,Nav,NavDropdown } from 'react-bootstrap'
 import Home from './Home';
 import AboutUs from './About';
 import ContactUs from './Contact';
